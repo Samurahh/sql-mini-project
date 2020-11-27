@@ -1,0 +1,10 @@
+Employee,Reports to
+Ms. Nancy Davolio,Dr. Andrew Fuller
+Dr. Andrew Fuller,"  "
+Ms. Janet Leverling,Dr. Andrew Fuller
+Mrs. Margaret Peacock,Dr. Andrew Fuller
+Mr. Steven Buchanan,Dr. Andrew Fuller
+Mr. Michael Suyama,Mr. Steven Buchanan
+Mr. Robert King,Mr. Steven Buchanan
+Ms. Laura Callahan,Dr. Andrew Fuller
+Ms. Anne Dodsworth,Mr. Steven Buchanan

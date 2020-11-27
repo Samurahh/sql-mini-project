@@ -1,0 +1,8 @@
+Column_name,Type,Computed,Length,Prec,Scale,Nullable,TrimTrailingBlanks,FixedLenNullInSource,Collation
+spartan_id,int,no,4,"10   ","0    ",no,(n/a),(n/a),NULL
+title,varchar,no,30,"     ","     ",yes,no,yes,SQL_Latin1_General_CP1_CI_AS
+first_name,varchar,no,30,"     ","     ",yes,no,yes,SQL_Latin1_General_CP1_CI_AS
+last_name,varchar,no,30,"     ","     ",yes,no,yes,SQL_Latin1_General_CP1_CI_AS
+university,varchar,no,30,"     ","     ",yes,no,yes,SQL_Latin1_General_CP1_CI_AS
+course_taken,varchar,no,30,"     ","     ",yes,no,yes,SQL_Latin1_General_CP1_CI_AS
+final_mark,char,no,2,"     ","     ",yes,no,yes,SQL_Latin1_General_CP1_CI_AS
